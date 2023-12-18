@@ -1,5 +1,6 @@
 # Spot Finder: high adventures
 
-Contact:
+**Contact:**
+<br>(bug report, support, account deletion)
 <br>
 spot420finder@gmail.com
